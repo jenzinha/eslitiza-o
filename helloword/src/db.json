@@ -1,0 +1,22 @@
+{
+  "alunos":[
+      {
+          "id": 1,
+          "nome": "jennie souza",
+          "num_inscrito": 1003,
+          "curso": "Informatica"
+      },
+      {
+          "id": 2,
+          "nome": "loira basica",
+          "num_inscrito": 1989,
+          "curso": "Informatica"
+      },
+      {
+          "id": 3,
+          "nome": "yasmimim favodemel",
+          "num_inscrito": 1002,
+          "curso": "Informatica"
+      }
+  ]
+} 

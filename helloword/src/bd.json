@@ -1,0 +1,16 @@
+{
+  "alunos": [
+    {
+      "nome": "jamili amaral",
+      "curso": "informatica",
+      "num_inscrito": "5252",
+      "id": 1
+    },
+    {
+      "nome": "yasmim sordi",
+      "curso": "info",
+      "num_inscrito": "17",
+      "id": 2
+    }
+  ]
+}
